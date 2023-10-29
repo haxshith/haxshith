@@ -1,3 +1,4 @@
+![logo](https://github.com/haxshith/haxshith/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.mp4)
 <h1 align="center">You can call me Harshith</h1>
 <h3 align="center">Passionate for contributing in open source.</h3>
 
