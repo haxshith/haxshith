@@ -1,4 +1,4 @@
-![logo](https://github.com/haxshith/haxshith/blob/main/Screenshot%202023-10-29%20at%201.43.52%20PM.png)
+![logo]
 <h1 align="center">You can call me Harshith</h1>
 <h3 align="center">Passionate for contributing in open source.</h3>
 
