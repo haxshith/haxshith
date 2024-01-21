@@ -1,4 +1,4 @@
-
+![My Logo](1.png)
 <h1 align="center">You can call me Harshith</h1>
 <h3 align="center">Passionate for contributing in open source.</h3>
 
