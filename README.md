@@ -4,10 +4,12 @@
 <h1 align="center">You can call me Harshith</h1>
 <h3 align="center">Passionate for contributing in open source.</h3>
 
-<img align=“right” alt=“coding” width=“400” src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
+<div align="center">
+  <img alt="coding" width="800" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" style="display: block; margin: 0 auto;">
+</div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haxshith&label=Profile%20views&color=0e75b6&style=flat" alt="haxshith" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=haxshith&label=Profile%20views&color=0e75b6&style=flat" alt="haxshith" /> </p>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/harshith-banothu-83605b261/" target="blank">
