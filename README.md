@@ -1,4 +1,6 @@
-![My Logo](1.png)
+<div align="center" style="padding: 20px 0;">
+  <img src="1.png" alt="My Logo" style="margin: 0; padding: 0; width: 300px;">
+</div>
 <h1 align="center">You can call me Harshith</h1>
 <h3 align="center">Passionate for contributing in open source.</h3>
 
