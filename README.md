@@ -5,7 +5,7 @@
 <h3 align="center">Passionate for contributing in open source.</h3>
 
 <div align="center">
-  <img alt="coding" width="800" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" style="display: block; margin: 0 auto;">
+  <img alt="coding" width="800" src="https://i.imgflip.com/7w943t.jpg" style="display: block; margin: 0 auto;">
 </div>
 
 
