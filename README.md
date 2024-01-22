@@ -1,7 +1,7 @@
-<div align="left" style="padding: 3px 0;">
-  <img src="1.png" alt="My Logo" style="margin: 3; padding: 5; width: 150px;">
+<div align="center" style="padding-top: 5px 0;">
+  <img src="1.png" alt="My Logo" style="margin: 9; padding: 15; width: 180px;">
 </div>
-<h1 align="center">You can call me Harshith</h1>
+<h1 align="center" style="padding-bottom:5";>You can call me Harshith</h1>
 <h3 align="center">Passionate for contributing in open source.</h3>
 
 <div align="center">
