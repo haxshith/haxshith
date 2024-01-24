@@ -17,7 +17,7 @@
     </a>
 </p>
 
-- 🌱 I’m currently learning **Java,Reactjs,Nextjs**
+- 🌱 I’m currently learning **Nextjs**
 
 - 💬 Ask me about **C++,Python**
 
