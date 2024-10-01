@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harshith</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">weeb developer with more competitive skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haxshith&label=Profile%20views&color=0e75b6&style=flat" alt="haxshith" /> </p>
 
-- 🔭 I’m currently working on **MasalaMadness**
+- 🔭 I’m currently working on **MYSELF**
 
-- 🌱 I’m currently learning **DSA and Next.js**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **C++,Js,React.js and C**
+- 💬 Ask me about **C++,Js,React.js**
 
 - 📫 How to reach me **harshith140724@gmail.com**
 
@@ -18,7 +18,6 @@
 <a href="https://codepen.io/https://codepen.io/harshith_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/harshith_10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harshith-banothu-83605b261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshith-banothu-83605b261/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/hammshith._10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hammshith._10/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/slayer_10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/slayer_10" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/harshith140724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/harshith140724" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/slayer_14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/slayer_14/" height="30" width="40" /></a>
 </p>
