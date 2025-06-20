@@ -36,10 +36,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 
 ### 📊 GitHub Stats
-<a href="https://github.com/haxshith">
-  <img alt="haxshith’s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=haxshith&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/haxshith">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxshith&layout=compact&theme=transparent" />
-</a>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <img alt="haxshith’s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=haxshith&show_icons=true&theme=transparent&hide_border=true" width="49%" />
+
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxshith&layout=compact&theme=transparent&hide_border=true" width="49%" />
+
+</div>
+
 
