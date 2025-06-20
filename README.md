@@ -18,12 +18,12 @@ Hey y'all! I’m a software developer and competitive programmer passionate abou
 ### 👨‍💻 Coding Profiles:
 
 <p>
-  <a href="https://codeforces.com/profile/haxshith" target="_blank">
+  <a href="https://codeforces.com/profile/haxshith">
     <img height="32" src="https://cdn-1.webcatalog.io/catalog/codeforces/codeforces-icon-filled-256.png?v=1675595107494" alt="Codeforces" />
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://www.codechef.com/users/haxshith" target="_blank">
     <img height="32" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="CodeChef" />
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://leetcode.com/haxshith/" target="_blank">
     <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" />
   </a>
@@ -34,17 +34,18 @@ Hey y'all! I’m a software developer and competitive programmer passionate abou
 ### 🔨 Languages and Tools:
 
 <p>
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/cpp/cpp.svg" height="42px" alt="C++"/>
+<img src="https://tse2.mm.bing.net/th?id=OIP.5Y5sc3cKItDAGvITEqCNygHaHa&r=0&pid=Api" height="42px" alt="C++"/>
 <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" height="42px" alt="Java"/>
 <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" height="42px" alt="Python"/>
 <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg" height="42px" alt="JavaScript"/>
 <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" height="42px" alt="CSS"/>
 <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" height="42px" alt="ReactJS"/>
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/express/express.svg" height="42px" alt="Express.js"/>
+<img src="https://tse3.mm.bing.net/th?id=OIP.XQky1N0XySaAZjWJMmAgXgHaED&pid=Api" height="42px" alt="Express.js"/>
 <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" height="42px" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/mongodb/mongodb.svg" height="42px" alt="MongoDB"/>
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/mysql/mysql.svg" height="42px" alt="SQL"/>
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/spring/spring.svg" height="42px" alt="Spring"/>
+<img src="https://tse4.mm.bing.net/th?id=OIP.Al8weKZSstHJRmzugzj01QHaF7&pid=Api" height="42px" alt="MongoDB"/>
+<img src="https://tse4.mm.bing.net/th?id=OIP.JVt34lGxmm0GAGNNL_mwBgHaHa&pid=Api" height="42px" alt="SQL"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" height="42px" alt="Spring"/>
+
 
 </p>
 
