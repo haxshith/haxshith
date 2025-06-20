@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Harshith!
 
-Hey y'all! I’m a software developer and competitive programmer passionate about building secure and user-friendly applications. I have experience with Node.js, Express.js, and REST APIs, and I'm currently pursuing a B.Tech in Computer Science at IIIT Lucknow (2026).
+Hey y'all! I’m a software developer and competitive programmer passionate about building secure and user-friendly applications. I have experience with Node.js, Express.js, and REST APIs, and I'm currently pursuing a B.Tech in Computer Science at IIIT Lucknow.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
