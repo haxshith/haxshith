@@ -2,7 +2,9 @@
 <a href='https://www.linkedin.com/in/banothu-harshith10/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer and Competitive Programmer) depending on what the project requires. I love exploring new tech stack and leveraging them to build cool stuffs . 
+Hey y'all,
+
+I’m a software developer passionate about building secure, performant, and user-friendly applications. I have experience working with Node.js, Express.js, and REST APIs. I’m pursuing a B.Tech in Computer Science at the Indian Institute of Information Technology Lucknow, expected to graduate in 2026. Eager to learn new technologies and collaborate with other developers to deliver high quality solutions. 
 <br/>
 <br/>
 
@@ -11,9 +13,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently learning DSA and Backend Development.
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 💬 &nbsp; Ask me about React and MongoDb.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/banothu-harshith10/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/11-i0APi2jTbcjNYKwVes0F3q3SpyVYlx/view?usp=sharing)
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/11-i0APi2jTbcjNYKwVes0F3q3SpyVYlx/view?usp=sharing)
 
 <br>
 
@@ -41,7 +43,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
   <img alt="haxshith’s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=haxshith&show_icons=true&theme=transparent&hide_border=true" width="49%" />
 
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxshith&layout=compact&theme=transparent&hide_border=true" width="40%" />
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxshith&layout=compact&theme=transparent&hide_border=true" width="38%" />
 
 </div>
 
