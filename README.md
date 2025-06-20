@@ -1,13 +1,10 @@
 ## Hey 👋, I'm Harshith!
 
-Hey y'all, I’m a software developer passionate about building secure, performant, and user-friendly applications.  
-I have experience working with **Node.js**, **Express.js**, and **REST APIs**.  
-I’m currently pursuing a B.Tech in Computer Science at the **Indian Institute of Information Technology, Lucknow**, graduating in 2026.  
-Always eager to learn new technologies and collaborate with other developers to deliver high-quality solutions.
+Hey y'all! I’m a software developer and competitive programmer passionate about building secure and user-friendly applications. I have experience with Node.js, Express.js, and REST APIs, and I'm currently pursuing a B.Tech in Computer Science at IIIT Lucknow (2026).
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
----
+
 
 ### 🧐 More About Me:
 
@@ -16,13 +13,13 @@ Always eager to learn new technologies and collaborate with other developers to 
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/banothu-harshith10/)
 - 📝 Check out my [Resume](https://drive.google.com/file/d/11-i0APi2jTbcjNYKwVes0F3q3SpyVYlx/view?usp=sharing)
 
----
+
 
 ### 👨‍💻 Coding Profiles:
 
 <p>
   <a href="https://codeforces.com/profile/haxshith" target="_blank">
-    <img height="32" src="https://kimmusic.github.io/ps/C672B/" alt="Codeforces" />
+    <img height="32" src="https://cdn-1.webcatalog.io/catalog/codeforces/codeforces-icon-filled-256.png?v=1675595107494" alt="Codeforces" />
   </a>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/haxshith" target="_blank">
     <img height="32" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="CodeChef" />
@@ -32,7 +29,7 @@ Always eager to learn new technologies and collaborate with other developers to 
   </a>
 </p>
 
----
+
 
 ### 🔨 Languages and Tools:
 
@@ -50,7 +47,7 @@ Always eager to learn new technologies and collaborate with other developers to 
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg" height="42px" alt="Android"/>
 </p>
 
----
+
 
 ### 📊 GitHub Stats
 
