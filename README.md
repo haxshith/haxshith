@@ -18,13 +18,13 @@ Hey y'all! I’m a software developer and competitive programmer passionate abou
 ### 👨‍💻 Coding Profiles:
 
 <p>
-  <a href="https://codeforces.com/profile/haxshith">
+  <a href="https://codeforces.com/profile/har10shith">
     <img height="32" src="https://cdn-1.webcatalog.io/catalog/codeforces/codeforces-icon-filled-256.png?v=1675595107494" alt="Codeforces" />
   </a>
-  <a href="https://www.codechef.com/users/haxshith" target="_blank">
+  <a href="https://www.codechef.com/users/ammiee" target="_blank">
     <img height="32" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="CodeChef" />
   </a>
-  <a href="https://leetcode.com/haxshith/" target="_blank">
+  <a href="https://leetcode.com/u/The_Redeemer/" target="_blank">
     <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" />
   </a>
 </p>
