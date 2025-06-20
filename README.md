@@ -22,7 +22,7 @@ Always eager to learn new technologies and collaborate with other developers to 
 
 <p>
   <a href="https://codeforces.com/profile/haxshith" target="_blank">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-plain.svg" alt="Codeforces" />
+    <img height="32" src="https://kimmusic.github.io/ps/C672B/" alt="Codeforces" />
   </a>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/haxshith" target="_blank">
     <img height="32" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="CodeChef" />
