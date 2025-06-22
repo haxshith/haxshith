@@ -54,6 +54,7 @@ Hey y'all! I’m a software developer and competitive programmer passionate abou
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img alt="Harshith's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=haxshith&show_icons=true&theme=transparent&hide_border=true" width="49%" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxshith&layout=compact&theme=transparent&hide_border=true" width="38%" />
+  <img alt="Harshith's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=har8shith&show_icons=true&theme=transparent&hide_border=true" width="49%" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=har8shith&layout=compact&theme=transparent&hide_border=true" width="38%" />
 </div>
+
